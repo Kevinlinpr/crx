@@ -1,0 +1,1 @@
+运行gen.sh即可在api文件夹下生成crx.h和crx.so
